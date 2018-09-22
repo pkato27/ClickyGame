@@ -1,0 +1,15 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.title1 {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 50px;
+}
+.title2 {
+  width: 100%;
+  text-align: right;
+  margin-bottom: 50px;
+}
